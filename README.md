@@ -1,1 +1,2 @@
-# cockatielcompany
+tiel company
+git repository
